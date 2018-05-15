@@ -1,0 +1,97 @@
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe.config
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.AdminForm.resources
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.LoginForm.resources
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.Properties.Resources.resources
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UserInterfaceForm.resources
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csproj.GenerateResource.Cache
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\ASP.NET\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe.config
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csprojResolveAssemblyReference.cache
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.AdminForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.LoginForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.Properties.Resources.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SalesRecordForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SearchForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCategoryForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCompanyForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupItemForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockInForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockOutForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UserInterfaceForm.resources
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csproj.GenerateResource.Cache
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\ASP.NET\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe.config
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.AdminForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.LoginForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.Properties.Resources.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SalesRecordForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SearchForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCategoryForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCompanyForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupItemForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockInForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockOutForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UserInterfaceForm.resources
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csproj.GenerateResource.Cache
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.AdminForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.LoginForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SalesRecordForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SearchForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCategoryForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCompanyForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupItemForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockInForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockOutForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UserInterfaceForm.resources
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\Web App Develop .Net\Desktop\bitm project\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe.config
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.AdminForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.LoginForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.Properties.Resources.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SalesRecordForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SearchForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UI.SetupCatagoryForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCompanyForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupItemForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockInForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockOutForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UserInterfaceForm.resources
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csproj.GenerateResource.Cache
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\rana\Desktop\bitm project\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe.config
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.exe
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\bin\Debug\WindowsFormsApplicationListViewApp.pdb
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csprojResolveAssemblyReference.cache
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.AdminForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.LoginForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.Properties.Resources.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SalesRecordForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SearchForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UI.SetupCatagoryForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupCompanyForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.SetupItemForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockInForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.StockOutForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.UserInterfaceForm.resources
+C:\Users\nasir\Desktop\New folder\bitm project1\SolutionProjectPractise\WindowsFormsApplicationListViewApp\obj\Debug\WindowsFormsApplicationListViewApp.csproj.GenerateResource.Cache
